@@ -1,0 +1,14 @@
+（make sure I am in the repot）
+(open intergreate terminal)
+git add -A
+
+
+git commit -m "message of what youre commiting"
+
+git push
+
+if it mentions something about setting the upstream branch after typing "git push" copy the command it prints out
+
+git checkout -b name-of-the-new-branch
+
+git status
