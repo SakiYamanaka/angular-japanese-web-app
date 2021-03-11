@@ -1,13 +1,14 @@
 （make sure I am in the repot）
 (open intergreate terminal)
+
+use this for creating a new branch at begining of each lesson
+git checkout -b name-of-the-new-branch
+
 use these command for saving changes at the end of each lesson
 git add -A
 git commit -m "message of what youre commiting"
 git push
 (if it mentions something about setting the upstream branch after typing "git push" copy the command it prints out)
-
-use this for creating a new branch at begining of each lesson
-git checkout -b name-of-the-new-branch
 
 if Im confused what to do next, use this.
 git status
