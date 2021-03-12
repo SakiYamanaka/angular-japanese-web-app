@@ -1,0 +1,3 @@
+Running an Angular Application
+make sure i'm in an application folder(open intergreate tarminal)
+ng serve -open
