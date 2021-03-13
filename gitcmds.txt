@@ -12,3 +12,5 @@ git push
 
 if Im confused what to do next, use this.
 git status
+
+I love Nick
