@@ -1,3 +1,4 @@
 Running an Angular Application
-make sure i'm in an application folder(open intergreate tarminal)
-ng serve -open
+make sure i'm in an application(my-first-app) folder(open intergreate tarminal)
+ng serve --open
+　⇨running application
